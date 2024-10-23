@@ -24,3 +24,5 @@ This is a To do list app with basic functionalities built using angular 18
  ## Screenshorts
 
  [Home Screen] (src/assets/Teckit.jpg)
+  ## Deployed
+  -[Netlify] (https://statuesque-seahorse-877c1a.netlify.app)
